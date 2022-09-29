@@ -337,3 +337,7 @@ border-radius: 10px;
 
 
 }
+
+.medialeft{
+    display: flex;
+}
